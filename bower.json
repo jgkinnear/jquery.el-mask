@@ -1,4 +1,21 @@
 {
     "name": "jquery.el-mask",
-    "version": "0.0.1"
+    "version": "0.0.1",
+    "main": "dist/jquery.el-mask.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "jquery": ">=1.10.2",
+        "underscore": "~1.5.2"
+    }
 }
