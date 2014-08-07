@@ -1,6 +1,6 @@
 {
     "name": "jquery.el-mask",
-    "version": "0.0.1",
+    "version": "0.0.3",
     "main": "dist/jquery.el-mask.js",
     "ignore": [
         "source",
